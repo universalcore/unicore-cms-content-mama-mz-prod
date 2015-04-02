@@ -4,14 +4,14 @@
   "language": "por_MZ", 
   "title": "M\u00eas 3", 
   "primary_category": "8398c00209694ebca38f82fd89af67d7", 
-  "created_at": "2015-04-02T09:33:36.629415+00:00", 
+  "created_at": "2015-04-02T09:33:36+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2015-04-02T09:33:36.629665+00:00", 
+  "modified_at": "2015-04-02T11:01:10.815950+00:00", 
   "_version": {
     "package_version": "1.0.1", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -22,7 +22,7 @@
   "author_tags": [], 
   "image": null, 
   "published": null, 
-  "position": 0, 
+  "position": 22, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "por-month-3", 
   "uuid": "c1f46924550b40b3846009917cfcbec2"
