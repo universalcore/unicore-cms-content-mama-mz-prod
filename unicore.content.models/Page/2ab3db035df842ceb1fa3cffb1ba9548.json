@@ -6,12 +6,12 @@
   "primary_category": "ffbb254b17e442bea143b7b4d0ba6009", 
   "created_at": "2014-10-06T19:44:21+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-06-12T15:34:52.435895+00:00", 
+  "modified_at": "2015-12-22T13:13:40.667703+00:00", 
   "_version": {
     "package_version": "0.2.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -25,7 +25,7 @@
   "author_tags": [], 
   "image": null, 
   "published": true, 
-  "position": 35, 
+  "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "your-new-baby", 
   "uuid": "2ab3db035df842ceb1fa3cffb1ba9548"
